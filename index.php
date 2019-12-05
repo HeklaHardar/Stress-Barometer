@@ -4,7 +4,7 @@
   <!--Hekla -->
 </head>
 <body>
-<style><?php // include("style.css"); ?></style><?php
+<style><?php include("style.css"); ?></style><?php
  include("bagindex.php");
 ?>
 <br><br>
