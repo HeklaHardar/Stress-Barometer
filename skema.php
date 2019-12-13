@@ -23,19 +23,33 @@
     <td class="tg-lbd0" <?php if (isset($mandag00)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
-    <td class="tg-lbd0"></td>
-    <td class="tg-wo29"></td>
-    <td class="tg-lbd0"></td>
-    <td class="tg-wo29"></td>
-    <td class="tg-lbd0"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag00)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
+    <td class="tg-lbd0" <?php if (isset($onsdag00)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
+    <td class="tg-lbd0" <?php if (isset($torsdag00)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
+    <td class="tg-lbd0" <?php if (isset($fredag00)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
+    <td class="tg-lbd0" <?php if (isset($lordag00)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
+    <td class="tg-lbd0" <?php if (isset($sondag00)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
   </tr>
   <tr>
     <td class="tg-wo29">01-02</td>
     <td class="tg-lbd0" <?php if (isset($mandag1)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag1)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -47,11 +61,13 @@
     <td class="tg-lbd0" <?php if (isset($mandag2)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag2)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
-    <td class="tg-84ta"></td>
+    <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
   </tr>
   <tr>
@@ -59,7 +75,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag3)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag3)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -71,7 +89,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag4)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag4)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -83,7 +103,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag5)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag5)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -95,7 +117,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag6)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag6)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -107,7 +131,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag7)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag7)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -119,7 +145,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag8)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag8)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -131,7 +159,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag9)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag8)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -155,7 +185,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag11)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag10)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -167,7 +199,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag12)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag12)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -179,7 +213,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag13)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag13)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -191,7 +227,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag14)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag14)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -203,7 +241,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag15)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag15)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -215,7 +255,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag16)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag16)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -227,7 +269,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag17)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag17)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -239,7 +283,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag18)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag18)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -251,7 +297,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag19)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag19)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -263,7 +311,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag20)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag20)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -275,7 +325,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag21)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag21)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -287,7 +339,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag22)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag22)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
@@ -299,7 +353,9 @@
     <td class="tg-lbd0" <?php if (isset($mandag23)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-wo29"></td>
+    <td class="tg-lbd0" <?php if (isset($tirsdag23)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
     <td class="tg-lbd0"></td>
     <td class="tg-wo29"></td>
     <td class="tg-lbd0"></td>
