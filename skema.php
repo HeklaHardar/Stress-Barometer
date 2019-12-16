@@ -50,11 +50,21 @@
     <td class="tg-lbd0" <?php if (isset($tirsdag1)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-lbd0"></td>
-    <td class="tg-wo29"></td>
-    <td class="tg-lbd0"></td>
-    <td class="tg-wo29"></td>
-    <td class="tg-lbd0"></td>
+    <td class="tg-lbd0" <?php if (isset($onsdag1)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
+    <td class="tg-lbd0" <?php if (isset($torsdag1)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
+    <td class="tg-lbd0" <?php if (isset($fredag1)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
+    <td class="tg-lbd0" <?php if (isset($lordag1)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
+    <td class="tg-lbd0" <?php if (isset($sondag1)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
   </tr>
   <tr>
     <td class="tg-wo29">02-03</td>
@@ -64,11 +74,21 @@
     <td class="tg-lbd0" <?php if (isset($tirsdag2)) { ?>
       style="background-color:#F7DC6F" <?php
     }?>></td>
-    <td class="tg-lbd0"></td>
-    <td class="tg-wo29"></td>
-    <td class="tg-lbd0"></td>
-    <td class="tg-wo29"></td>
-    <td class="tg-lbd0"></td>
+    <td class="tg-lbd0" <?php if (isset($onsdag2)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
+    <td class="tg-lbd0" <?php if (isset($torsdag2)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
+    <td class="tg-lbd0" <?php if (isset($fredag2)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
+    <td class="tg-lbd0" <?php if (isset($lordag2)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
+    <td class="tg-lbd0" <?php if (isset($sondag2)) { ?>
+      style="background-color:#F7DC6F" <?php
+    }?>></td>
   </tr>
   <tr>
     <td class="tg-wo29">03-04</td>
