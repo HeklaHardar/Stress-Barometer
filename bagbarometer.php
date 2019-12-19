@@ -14,5 +14,6 @@ if (isset($_SESSION['logincheck'])) {
 
 require('hentmandag.php');
 require('henttirsdag.php');
-
+require('hentonsdag.php');
+require('henttorsdag.php');
 ?>

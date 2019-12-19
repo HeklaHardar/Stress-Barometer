@@ -3,6 +3,8 @@
 $henttirsdag="SELECT Start FROM arbejde WHERE Dagid='2' AND Brugerid='$_SESSION[brugerid]'";
 $henttirsdag_query=mysqli_query($dbconnect, $henttirsdag);
 
+if(mysqli_num_rows($henttirsdag_query) > 0){
+
 while($henttirsdag_result=mysqli_fetch_assoc($henttirsdag_query)){
     $tirsdag[] = $henttirsdag_result['Start'];
 }
@@ -78,5 +80,6 @@ if (in_array ("22",$tirsdag)) {
 }
 if (in_array ("23",$tirsdag)) {
   $tirsdag23=TRUE;
+}
 }
 ?>
