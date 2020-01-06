@@ -53,7 +53,7 @@ if (in_array ("12",$torsdag)) {
 if (in_array ("13",$torsdag)) {
   $torsdag13=TRUE;
 }
-if (in_array ("14",$tirsdag)) {
+if (in_array ("14",$torsdag)) {
   $torsdag14=TRUE;
 }
 if (in_array ("15",$torsdag)) {
